@@ -1,0 +1,26 @@
+
+.heading{
+    text-align: center;
+    color: grey;
+}
+#main-border{
+    border-radius: 10px;
+    border-color: black;
+    border-width: 10px;
+    text-align: center;
+
+}
+.Quizz{
+    margin: 10px;
+    border-radius: 10px;
+    border-color: darkred;
+}
+.button{
+    border-width: 2px;
+    background-color: rgb(98, 165, 98);
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: 300;
+    color: whitesmoke;
+    cursor: pointer;
+}
